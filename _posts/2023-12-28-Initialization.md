@@ -4,9 +4,7 @@ Welcome to my first post on this blog!
 
 ---
 
-### The Project
-
-#### Computational Study of the Influence of Metal Oxides and Peroxides in Thermoplastic Elastomers
+### Computational Study of the Influence of Metal Oxides and Peroxides in Thermoplastic Elastomers
 
 On this research I'm studying a system formed by a thermoplastic elastomer (TPE) (XHNBR especifically), metal oxides (MgO and ZnO mainly) and polyamide 6 (PA6).
 Experimentally, first the system `TPE + metal oxide` is prepared, and then it's mixed with the `PA6`.
